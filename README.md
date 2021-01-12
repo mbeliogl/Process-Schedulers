@@ -10,7 +10,7 @@ The program uses various data structures to implement 2 different Process Schedu
 #### ----Schedulesim----
 
 	To compile: make all 
-	To run: ./a.out <number of IOBound Processes> <number of CPUBound Processes> <number of 	 							desired cycles>
+	To run: ./a.out <number of IOBound Processes> <number of CPUBound Processes> <number of desired cycles>
 
 Description: The program simulates a scheduling load and outputs efficiency characteristics for each scheduler. 
 
